@@ -1,4 +1,4 @@
-# LightWeightVideoDetection
+# LightWeightVideoDetection (V2 Soon!⚡️)
 Detect Objects with Haar Cascade and Multiple Detection Models.- Open Source
 **Default** It detects Human Faces and bodies. If trained.
 # Important
